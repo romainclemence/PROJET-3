@@ -1,0 +1,41 @@
+Analyse du projet
+
+html5 | css 3 | php
+
+I
+1 - une page pour l'acceuil : comprenant formulaire de Connexion requise pour accéder aux informations du site via un UserName et un Password.
+
+2 - Si première connexion alors : une page d'inscription comprenant un formulaire avec: 
+   - Nom ;Prénom ;UserName ;Password, Question secrète ;Réponse à la question secrète.)
+2.a OPTIONDE LA PAGE :
+   - Si l'utilisateur oublie son mot de passe, il peut saisir son UserName et répondre à la question secrète pour en créer un nouveau.
+   - Quand l’utilisateur est connecté, son nom et son prénom sont indiqués dans le header sur l’ensemble des pages.
+   - Un bouton « Se déconnecter » est présent dans le header.
+   - Si l'utilisateur est déconnecté, il est redirigé automatiquement vers la première page pour une nouvelle connexion via un UserName et un Password.
+   - une page paramètre du compte est présente afin que l'utilisateur puisse modifier ses informations à tout moment.
+
+II
+1- UNE FOIS LUTILISATEUR CONNECTE:
+il arrive sur la page suivante : 
+- Présentation du GBAF ( comme doc WIREFRAM SMARTPHONE ) + liste des différents acteurs/partenaires du système bancaire français comprenant :
+○ logo 
+○ titre 
+○ présentation de l’entreprise avec affichage de la première ligne de texte 
+- OPTION DE LA PAGE / bouton « Afficher la suite » (permettant d’ouvrir une nouvelle page pour chaque acteur/partenaire).
+
+III
+1 - LES PAGES PARTENAIRES : 
+Une page indépendante par partenaire : 4 Partenaires ( En respectant le doc WIREFRAM PAGE ACTEUR ) aavec:
+logo ;titre ; texte de description complet ;
+
+2. OPTION DE LA PAGE : ( COMME WIREFRAME PAGE ACTEUR )
+- bouton Like/Dislike permettant de donner un avis (professionnel et constructif) en un clic sur l’acteur/partenaire 
+- indication du nombre de Like/Dislike ;
+- bouton pour poster un nouveau commentaire ;
+- liste des commentaires sur cet acteur/partenaire incluant :
+- le prénom de l’utilisateur qui a laissé le commentaire ;
+- la date de publication ;
+- le texte.
+2.a OPTION COMPLEMENTAIRE : 
+pour chaque nouveau commentaire, le prénom
+(de la personne connectée) et la date (du jour) seront remplis automatiquement
