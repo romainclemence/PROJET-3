@@ -4,7 +4,8 @@ Analyse du projet
 html5 | css 3 | php
 
 I
-1 - une page pour l'acceuil : comprenant formulaire de Connexion requise pour accéder aux informations du site via un UserName et un Password.
+1 - une page pour l'acceuil : comprenant formulaire de Connexion requise pour accéder aux informations du site via un UserName et un 
+Password.
 
 2 - Si première connexion alors : une page d'inscription comprenant un formulaire avec: 
    - Nom ;Prénom ;UserName ;Password, Question secrète ;Réponse à la question secrète.)
@@ -12,13 +13,15 @@ I
    - Si l'utilisateur oublie son mot de passe, il peut saisir son UserName et répondre à la question secrète pour en créer un nouveau.
    - Quand l’utilisateur est connecté, son nom et son prénom sont indiqués dans le header sur l’ensemble des pages.
    - Un bouton « Se déconnecter » est présent dans le header.
-   - Si l'utilisateur est déconnecté, il est redirigé automatiquement vers la première page pour une nouvelle connexion via un UserName et un Password.
-   - une page paramètre du compte est présente afin que l'utilisateur puisse modifier ses informations à tout moment.
+   - Si l'utilisateur est déconnecté, il est redirigé automatiquement vers la première page pour une nouvelle connexion 
+   via un UserName et un Password.
+- une page paramètre du compte est présente afin que l'utilisateur puisse modifier ses informations à tout moment.
 
 II
 1- UNE FOIS LUTILISATEUR CONNECTE:
 il arrive sur la page suivante : 
-- Présentation du GBAF ( comme doc WIREFRAM SMARTPHONE ) + liste des différents acteurs/partenaires du système bancaire français comprenant :
+- Présentation du GBAF ( comme doc WIREFRAM SMARTPHONE ) + liste des différents acteurs/partenaires du système bancaire français 
+comprenant :
 ○ logo 
 ○ titre 
 ○ présentation de l’entreprise avec affichage de la première ligne de texte 
